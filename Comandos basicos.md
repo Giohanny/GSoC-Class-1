@@ -1,16 +1,16 @@
 # Comandos basicos del terminal
 
-##Cd
+## Cd
 
 Sirve para poder moverse a determinada carpeta
 
 ´cd Desktop´
 
-##ls
+## ls
 
 Sirve para poder listar las carpetas y archivos que existen en determinada carpeta
 
-##map
+## map
 
 Conocer la documentación de determinado comando
 
