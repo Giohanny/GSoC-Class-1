@@ -1,2 +1,4 @@
 # GSoC-Class-1
-Terminal Commands Basic
+Aquí se muestra la primera clase del programa Perú Rumbo al GSoC.
+
+>Terminal Basic Commands
